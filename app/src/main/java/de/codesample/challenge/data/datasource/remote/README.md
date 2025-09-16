@@ -1,0 +1,1 @@
+# This package contains the logic for interacting with remote data sources in the Android project. It handles network requests, API communication, and data retrieval from external services.

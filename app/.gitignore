@@ -208,6 +208,3 @@ fabric.properties
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
-/.idea/deploymentTargetDropDown.xml
-/.idea/kotlinc.xml
-/.idea/migrations.xml
